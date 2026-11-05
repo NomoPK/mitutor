@@ -13,6 +13,10 @@ Juego web familiar de práctica escolar para Primaria.
 
 La aplicación conserva un progreso independiente por `asignatura + curso` en el navegador.
 
+## Repaso adaptativo local
+
+Cada respuesta correcta o fallada se registra solo en el navegador, por pregunta y destreza. El botón **«Repasar lo que cuesta»** muestra las paradas nuevas, en práctica o consolidadas y abre la más débil; en las estaciones de tarjetas mixtas, las actividades con más fallos aparecen primero. No hay cuenta, analítica ni datos enviados fuera del dispositivo.
+
 El contenido de Ciencias Sociales se limita a los seis esquemas curriculares aportados para 3.º de Primaria. Alterna tarjetas de respuesta escrita y selección para practicar en orden diferente en cada intento; la señal triangular de peligro con dos niños se ha incorporado a partir de la ficha de seguridad vial. No existe una segunda web separada.
 
 ## Publicación
