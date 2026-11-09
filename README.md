@@ -15,6 +15,8 @@ La aplicación conserva un progreso independiente por `asignatura + curso` en el
 
 El bloque de Ciencias Naturales incorpora los esquemas aportados de 3.º de Primaria sobre relaciones con otros seres vivos y relaciones alimentarias: ecosistema; familia, sociedad y bandada; mutualismo, comensalismo y depredación; productores, consumidores, descomponedores y la cadena alga → camarón → sardina → bacalao.
 
+El Tema 3 de Lengua incorpora las fichas aportadas sobre textos literarios y no literarios, prosa y verso, poema, verso, rima, comparación y metáfora.
+
 ## Repaso adaptativo local
 
 Cada respuesta correcta o fallada se registra solo en el navegador, por pregunta y destreza. El botón **«Repasar lo que cuesta»** muestra las paradas nuevas, en práctica o consolidadas y abre la más débil; en las estaciones de tarjetas mixtas, las actividades con más fallos aparecen primero. No hay cuenta, analítica ni datos enviados fuera del dispositivo.
